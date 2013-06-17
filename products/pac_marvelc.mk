@@ -12,7 +12,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/pac/mdpi
 
 # PAC boot logo
 PRODUCT_COPY_FILES += \
-    vendor/pac/prebuilt/common/bootlogo/pac_logo_320x480.rle:root/marvel.rle
+    vendor/pac/prebuilt/common/bootlogo/pac_logo_320x480.rle:root/logo.rle
 
 # Copy bootanimation
 PRODUCT_COPY_FILES += \
