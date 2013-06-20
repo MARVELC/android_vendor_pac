@@ -98,7 +98,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Setup OTA with goo.im
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.goo.developerid=crossfire77 \
-    ro.goo.rom=PAC-MARVELC \
+    ro.goo.rom=PACmarvelc \
     ro.goo.version=$(shell date +%s)
 
 # ROMStats Properties
